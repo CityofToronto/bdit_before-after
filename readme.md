@@ -1,1 +1,1 @@
-Home for scripts and apporaches for before/after studies.
+Home for scripts and approaches for before/after studies.
